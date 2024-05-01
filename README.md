@@ -1,7 +1,5 @@
 # Building and Running the Light Monitoring Program
 
----
-
 ## Prerequisites:
 Before proceeding, ensure you have the following installed on your system:
 - **Mingw**: This is a minimal GNU for Windows development environment. You'll need it for compiling C++ code.
