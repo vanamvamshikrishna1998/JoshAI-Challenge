@@ -1,0 +1,45 @@
+Instructions to Build and Run the Executable(Make sure to run the light server before executing)
+
+Windows OS
+
+1. Unzip the Challenge Directory
+	Download the challenge directory and unzip it to your desired location.
+
+2. Navigate to the Project Directory
+	Open a terminal.
+	Change directory to the project directory: 
+	- cd path/to/project_directory.
+
+3. Build the Project
+	Create a build directory: 
+	 - mkdir build 
+	 - cd build
+	Generate build files using CMake:	
+	 -  cmake ..
+•	Compile the project:
+	 -  cmake --build . 
+4. Run the Executable
+	- 	cd Debug
+	-   ./JoshAICodingChallenge.exe
+
+
+Mac OS / Linux
+
+1. Unzip the Challenge Directory
+	Download the challenge directory and unzip it to your desired location.
+
+2. Navigate to the Project Directory
+	Open a terminal.
+	Change directory to the project directory: 
+	- cd path/to/project_directory.
+
+3. Build the Project
+	Create a build directory: 
+	 - mkdir build 
+	 - cd build
+	Generate build files using CMake:	
+	 -  cmake ..
+•	Compile the project:
+	 -  make 
+4. Run the Executable
+	-   ./JoshAICodingChallenge
