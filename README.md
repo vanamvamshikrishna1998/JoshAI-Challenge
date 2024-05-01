@@ -13,7 +13,7 @@ Before proceeding, ensure you have the following installed on your system:
    - Similarly, ensure you have Make installed. You can typically install it via your package manager or by downloading it from its [official website](https://www.gnu.org/software/make/).
 
 2. **What You'll Need**:
-   - Download the code folder onto your local machine.
+   - Clone the code repository onto your local machine.
    - Before you start, make sure you have these files in your project folder:
      1. `main.cpp`
      2. `httplib.h`
