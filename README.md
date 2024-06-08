@@ -1,5 +1,8 @@
 # Building and Running the Light Monitoring Program
 
+## Objective:
+The objective of this guide is to provide step-by-step instructions for building and running the Light Monitoring Program. This program is designed to monitor and report the state of lights in a home automation system, utilizing C++ for development. The guide ensures that users have the necessary prerequisites, including Mingw and Make, and walks them through setting up their environment, compiling, and running the program. By following these instructions, users will be able to effectively monitor light changes and interact with the home automation system through a local server.
+
 ## Prerequisites:
 Before proceeding, ensure you have the following installed on your system:
 - **Mingw**: This is a minimal GNU for Windows development environment. You'll need it for compiling C++ code.
