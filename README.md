@@ -44,3 +44,8 @@ After successfully building the program, run the generated executable. This will
 - The program continuously monitors changes in the state of lights and reports them in JSON format.
 - Make sure to have the light server running before executing the program.
 - If you encounter any issues during the build process or while running the program, refer to the documentation or seek assistance.
+
+## References:
+- Josh AI corporation
+
+
